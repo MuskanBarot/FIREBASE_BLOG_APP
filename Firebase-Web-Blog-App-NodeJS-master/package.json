@@ -1,0 +1,27 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimehernan95/qcprojectv1.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Jaime Hernan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaimehernan95/qcprojectv1/issues"
+  },
+  "homepage": "https://github.com/jaimehernan95/qcprojectv1#readme",
+  "dependencies": {
+    "firebase": "^9.6.3",
+    "http-server": "^0.12.1",
+    "minimist": "^1.2.5"
+  }
+}
